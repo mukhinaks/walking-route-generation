@@ -12,7 +12,7 @@ First example is improvement one-day routes from Official City Guide. All points
 
 In contrast, route [Grand Ducal Petersburg](http://www.visit-petersburg.ru/en/route/13/) has small number of places, and the obtained result differs significantly. The [enrichment path](https://mukhinaks.github.io/walking-route-generation/4.3-official-improved-route-2.html) contains 15 locations including 4 mandatory locations from raw route and 11 extra. 
 
-<img src="images/4.3-official-raw-route-2.png" height="200"> <a href='https://mukhinaks.github.io/walking-route-generation/4.3-official-improved-route-2.html' target=_blank><img src="images/4.3-official-improved-route-2.png" height="200"></a>
+<img src="images/4.3-official-raw-route-2.png" height="200"> <a href='https://mukhinaks.github.io/walking-route-generation/4.3-official-improved-route-2.html' target='_blank'><img src="images/4.3-official-improved-route-2.png" height="200"></a>
 
 ### Case study
 
